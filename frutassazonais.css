@@ -1,0 +1,35 @@
+.cabecalho {
+    width:100%;
+    height:150px;
+    background-color:rgba(241, 237, 195, 0.975);
+    text-align:center;
+}
+.banner {
+    width:25%;
+    height:650px;
+    text-align:center;
+    float:left
+}
+.corpo {
+    width:50%;
+    height:650px;
+    background-color:rgba(241, 239, 220, 0.975);
+    text-align:center;
+    float:left
+}
+.imagem {
+    width: 250px;
+    height: 200px;
+}
+.estiloFrame {
+    float:center;
+    margin:20px 20px 20px 20px; 
+    width:250px;
+    height:250px;
+}
+.rodape {
+    width:100%;
+    height:150px;
+    background-color:rgba(241, 237, 195, 0.975);
+    text-align:center;    
+}
